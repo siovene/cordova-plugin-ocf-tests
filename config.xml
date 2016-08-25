@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.intel.otc.oic.tests" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Cordova OIC Plugin Tests</name>
+<widget id="com.intel.otc.ocf.tests" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cordova OCF Plugin Tests</name>
     <description>
-        Unit tests for the Cordova OIC Plugin
+        Unit tests for the Cordova OCF Plugin
     </description>
     <author email="salvatore.iovene@intel.com">
         Salvatore Iovene
